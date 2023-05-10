@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+![Screenshot (55)](https://github.com/uday1508/Tvmaze-api/assets/121241786/9db14341-053e-4237-beaa-4c8d3c2f62d4)
+![Screenshot (56)](https://github.com/uday1508/Tvmaze-api/assets/121241786/5818ba1c-2e06-49a3-8c62-bcfd7fbc3c30)
 ## Available Scripts
 
 In the project directory, you can run:
@@ -15,10 +16,9 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `npm test`
-![Screenshot (56)](https://github.com/uday1508/Tvmaze-api/assets/121241786/5818ba1c-2e06-49a3-8c62-bcfd7fbc3c30)
 
-Launches the test runner in th![Screenshot (55)](https://github.com/uday1508/Tvmaze-api/assets/121241786/9db14341-053e-4237-beaa-4c8d3c2f62d4)
-e interactive watch mode.\
+
+Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
