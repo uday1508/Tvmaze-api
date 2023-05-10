@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 ![Screenshot (55)](https://github.com/uday1508/Tvmaze-api/assets/121241786/9db14341-053e-4237-beaa-4c8d3c2f62d4)
 ![Screenshot (56)](https://github.com/uday1508/Tvmaze-api/assets/121241786/5818ba1c-2e06-49a3-8c62-bcfd7fbc3c30)
 ## Available Scripts
